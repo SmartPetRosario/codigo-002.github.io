@@ -160,11 +160,11 @@ h6 {
   margin: 10px;
   display: flex;
   justify-content: center;
-  gap: 12px;
+  gap: 2.4em;
 }
 .footer-iconos {
-  width: 18px;
-  height: 18px;
+  width: 1.8em;
+  height: 1.8em;
   color: #6c5c94;
 }
 
@@ -198,4 +198,17 @@ small{
 .primerUso{
   height: 300px;
   width: 100%;
+}
+
+
+
+.btnregister{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.button-datos{
+  width: 8em;
+  height: 3em;
 }
